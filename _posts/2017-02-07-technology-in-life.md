@@ -17,7 +17,7 @@ This technology has helped those living in small towns. People living in small t
 
 Arguably one of the greatest things about online shopping is the fast and free shipping. There is obviously a time difference between going to the store and having that item physically in your hand and hitting "order" on a computer and waiting a few days. Although there is a few days of waiting, this has improved from ordering over the phone. Also, it is less embarrassing ordering 50 DS styli then to walk out of store with a huge bag of them.
 
-Of course internet shopping has helped many people buy their essential items such as medicine supplies, house hold appliances and of  
+Of course internet shopping has helped many people buy their essential items such as medicine supplies, house hold appliances and of course food from foreign lands. These things are wonderful to have, but life is about the little things. For example, with the expantion of online shopping now sports fanitics 
 
 <a title="Keyboard and Phone" href="https://flickr.com/photos/peteashton/6674301095">Keyboard and Phone</a> flickr photo by <a href="https://flickr.com/people/peteashton">Pete Ashton</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a> </small>
 
