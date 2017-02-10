@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon.com/: Filling up junk drawers one item at a time
+title: 'Amazon.com: Filling up junk drawers one item at a time'
 bigimg: /img/keyboard.jpg
 image: /img/computer.jpg
 tags: [computers, online-shopping]
