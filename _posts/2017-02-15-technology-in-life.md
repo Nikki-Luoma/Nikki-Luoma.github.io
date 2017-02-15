@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon.com: Filling up junk drawers one item at a time'
+title: 'Amazon.com: Filling Up Junk Drawers One Item at a Time'
 bigimg: /img/keyboard.jpg
 image: /img/computer.jpg
 tags: [computers, online-shopping]
@@ -11,9 +11,9 @@ tags: [computers, online-shopping]
 
 
 
-Technology has evolved in the past few decades. In the matter of several years we went from not being able to be on the internet and the telephone at the same time, to being able to have virtually everything at our finger tips. One of the major things that has evolved because of this is retail. Just a few years ago if you wanted something you had three options, drive around nearby shopping centers to see if they carried it and hope it was in stock, order it from a catalog and wait six to eight weeks for it to come in, or simply go without said item. Luckily things have changed. There have been an explosion of websites that specialize in on-line shopping not to mention that almost every store has a website for convenient at home shopping. While this is a nice luxury to have, why does it matter?
+Technology has evolved in the past few decades. In the matter of several years, we went from not being able to be on the internet and telephone at the same time to being able to have virtually everything at our finger tips. One of the major things that has evolved because of this is retail. Just a few years ago, if you wanted something you had three options: drive around nearby shopping centers to see if they carried it and hope it was in stock, order it from a catalog and wait six to eight weeks for it to come in, or simply go without said item. Luckily things have changed. There has been an explosion of websites that specialize in on-line shopping not to mention that almost every store has a website for convenient at home shopping. While this is a nice luxury to have, why does it matter?
 
-I am an avid softball player, who lives an hour away from the nearest sporting goods store. Often times during my long season my equipment would wear out. The typical length of my season was from spring to fall. Since my seasons were so long I would run into the problem that sporting goods stores would have moved onto a different season and would no longer carry the equipment that I needed. While I was playing my two options would amount to asking my dad to drive me around hoping we could find equipment that I wanted or I could just order it on-line. Of course my dad enjoys spending time with me but scraping an entire day to buy socks was not the best use of our time.
+I am an avid softball player who lives an hour away from the nearest sporting goods store. Often times during my long season my equipment would wear out. The typical length of my season was from spring to fall. Since my seasons were so long, I would run into the problem that sporting goods stores would have moved onto a different season and would no longer carry the equipment that I needed. While I was playing my two options would amount to asking my dad to drive me around hoping we could find equipment that I wanted or I could just order it on-line. Of course my dad enjoys spending time with me but scraping an entire day to buy socks was not the best use of our time.
 
 This is not the only way that I use online shopping. As a college student I spent a lot of my time avoiding doing my homework. Through the process of procrastination one of my favorite past times include random searches on Amazon. One of my most infamous buys includes a a great deal I could not resist, a pack of 50 DS styluses for $5. Obviously, for several reasons this deal could not be found in stores. Without the use of the internet I would not have been able to find such a useless item.
 
