@@ -8,9 +8,9 @@ tags: [google, problems, selling-data]
 ---
 ### TL;DR Most people use Google, but they do not realize what happens with their data once their search is done.
 
-According to Alexa, Google.com is the most visited website on the world wide web. To have earned this title it is clear that people use google from their basic questions to their e-mails to their cravings for cute animals videos. But one thing people probably do not think about is "what happens after the search is over?"
+According to Alexa, Google.com is the most visited website on the world wide web. To have earned this title it is clear that people use Google from their basic questions to their e-mails to their cravings for cute animals videos. But one thing people probably do not think about is "what happens after the search is over?"
 
-Have you ever searched for shoes and a few hours later saw the same shoes as an ad on Facebook? This is an example of data mining. The dictionary definition of data mining is, "The practice of examining large databases in order to generate new information", but the real world definition translates to websites remembering what you were looking at so the next time you sign on they can show you more of what you like. This is the primary focus of the online retail market. For example,  
+Have you ever searched for shoes and a few hours later saw the same shoes as an ad on Facebook? This is an example of data mining. The dictionary definition of data mining is, "The practice of examining large databases in order to generate new information", but the real world definition translates to websites remembering what you were looking at so the next time you sign on they can show you more of what you like. This is the primary focus of the online retail market. For example, when shopping on Amazon, if you had purchase something it keeps record of this data so the next time you log on similar items are more liable to appear.  
 
 
 <small>
