@@ -24,7 +24,8 @@ description: Trying to Figure out the Internet one Click at a Time!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-
+navbar-links:
+    Presentations: "Presentations"
 
 
 
