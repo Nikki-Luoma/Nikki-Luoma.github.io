@@ -24,6 +24,10 @@ description: Trying to Figure out the Internet one Click at a Time!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+navbar-links: 
+Presentations: "datamining"
+
+
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -39,7 +43,7 @@ avatar: "/img/Me.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Cool Person
+  name: Nikki Luoma
   email: "youremail@domain.com"
   facebook: yourname  "Nikki Luoma"
   github: yourname    # eg. daattali
