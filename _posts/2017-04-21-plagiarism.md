@@ -2,12 +2,13 @@
 layout: post
 title: 'Academic Plagiarism: The Thoughts Around Us'  
 bigimg: /img/words.png
-image: /img/books.jpg
+image: /img/book.jpg
 tags: [school, plagiarism]
 ---
 
 ### TL;DR Most everyone believes that Plagiarism is wrong, yet students see plagiarism around them in media and even from their professors.
 
+Plagiarism is the act of using someone else's work or thoughts without giving them proper credit.    
 
 
 
