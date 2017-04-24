@@ -8,7 +8,10 @@ tags: [school, plagiarism]
 
 ### TL;DR Most everyone believes that Plagiarism is wrong, yet students see plagiarism around them in media and even from their professors.
 
-Plagiarism is the act of using someone else's work or thoughts without giving them proper credit.    
+Plagiarism is the act of using someone else's work or thoughts without giving them proper credit. Any student knows that plagiarism is wrong and has serious consequences, yet students see plagiarism happen to them all of the time. For example, plagiarism appear often in the music industry. Also, in my personal experience I have seen educators plagiarize their worksheets and their tests. How are the students expected to do their own work when everyone around them is plagiarizing?
+
+
+
 
 
 
