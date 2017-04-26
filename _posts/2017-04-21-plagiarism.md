@@ -14,7 +14,9 @@ Plagiarism has become a frequent problem in the music industry. Two songs that c
 
 Educators are often perceived as being people that students can look up to, but this is not always the case. For example, often times teachers or professors will make students take quizzes that the educators make the illusion that they created it, yet I have found this to be untrue. Earlier in the semester my roommate and I were assigned a take-home quiz. After I completed the quiz my roommate told me that she was able to find all of the answers online. I was puzzled until I look for myself. After I searched for one of the test questions, I found a page that had the question verbatim. I clicked on the link and to my surprise not only were most of the questions on this website but the answer choices were verbatim and appeared in the same order as they did on my quiz. The data on the top of the quiz I found online was from Spring of 2009, which is eight years before I took this quiz. My professor copied a quiz without giving any credit to the professor who made the quiz. If any student had done this with a paper or presentation they would be in bad academic standings with the school and might even be worried if they would be suspended. I think we should be looking at professors and holding them to the same accountability that students are held to. Students look up to the professors, and this does not give students the right guidance.
 
-       
+The problem of plagiarism keeps getting worse. According to *The New York Times*, "Studies of student behavior and attitudes show that a majority of students violate standards of academic integrity to some degree, and that high achievers are just as likely to do it as others. Moreover, there is evidence that the problem has worsened over the last few decades" (Perez-Pena). Although, plagiarism is being seen more frequently in pop culture and even in the classroom, students are still the ones that need to care and take pride in the work that they are doing. Often times students are unaware of the plagiarism policies at their institution(Perez-Pena). One way to prevent plagiarism is to educate students on what is considered plagiarism and why it is harmful. Despite plagiarism being around students the way to end it is to educate them on the matter.
+
+
 
 
 
@@ -22,6 +24,8 @@ Educators are often perceived as being people that students can look up to, but 
 
 <small> Works Cited
 Lynch, Joe. "8 Songs Accused of Plagiarism That Hit No. 1 on the Billboard Hot 100." *Billboard*, 12 Feb. 2015, http://www.billboard.com/articles/news/list/6501950/songs-accused-plagiarism-no-1-hot-100-blurred-lines.  
+
+Perez-Pena, Richard. "Studies Find More Students Cheating With High Achievers No Exception." *The New York Times*, 7 Sept 2012, http://www.nytimes.com/2012/09/08/education/studies-show-more-students-cheat-even-high-achievers.html.   
 </small>
 
 
