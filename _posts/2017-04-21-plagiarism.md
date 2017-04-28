@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Academic Plagiarism: Who Owns the Thoughts Around Us'  
+title: 'Academic Plagiarism: Who Owns the Thoughts Around Us?'  
 bigimg: /img/words.png
 image: /img/book.jpg
 tags: [school, plagiarism]
