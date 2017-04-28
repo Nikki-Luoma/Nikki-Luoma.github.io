@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Academic Plagiarism: The Thoughts Around Us'  
+title: 'Academic Plagiarism: Who Owns the Thoughts Around Us'  
 bigimg: /img/words.png
 image: /img/book.jpg
 tags: [school, plagiarism]
@@ -22,8 +22,8 @@ The problem of plagiarism keeps getting worse. According to *The New York Times*
 
 
 
-<small> Works Cited
-Lynch, Joe. "8 Songs Accused of Plagiarism That Hit No. 1 on the Billboard Hot 100." *Billboard*, 12 Feb. 2015, http://www.billboard.com/articles/news/list/6501950/songs-accused-plagiarism-no-1-hot-100-blurred-lines.  
+<small>
+Lynch, Joe. "8 Songs Accused of Plagiarism That Hit No. 1 on the Billboard Hot 100." *Billboard*, 12 Feb. 2015, http://www.billboard.com/articles/news/list/6501950/songs-accused-plagiarism-no-1-hot-100-blurred-lines. </small>
 
 <small> Perez-Pena, Richard. "Studies Find More Students Cheating With High Achievers No Exception." *The New York Times*, 7 Sept 2012, http://www.nytimes.com/2012/09/08/education/studies-show-more-students-cheat-even-high-achievers.html.   
 </small>
@@ -33,5 +33,3 @@ Lynch, Joe. "8 Songs Accused of Plagiarism That Hit No. 1 on the Billboard Hot 1
 
 
 <small> <a title="Staff and student perceptions of plagiarism" href="https://flickr.com/photos/24612276@N05/5902067107">Staff and student perceptions of plagiarism</a> flickr photo by <a href="https://flickr.com/people/24612276@N05">jobadge</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a> </small>
-
-http://www.apa.org/monitor/2011/06/cheat.aspx
