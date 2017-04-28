@@ -25,7 +25,7 @@ The problem of plagiarism keeps getting worse. According to *The New York Times*
 <small> Works Cited
 Lynch, Joe. "8 Songs Accused of Plagiarism That Hit No. 1 on the Billboard Hot 100." *Billboard*, 12 Feb. 2015, http://www.billboard.com/articles/news/list/6501950/songs-accused-plagiarism-no-1-hot-100-blurred-lines.  
 
-Perez-Pena, Richard. "Studies Find More Students Cheating With High Achievers No Exception." *The New York Times*, 7 Sept 2012, http://www.nytimes.com/2012/09/08/education/studies-show-more-students-cheat-even-high-achievers.html.   
+<small> Perez-Pena, Richard. "Studies Find More Students Cheating With High Achievers No Exception." *The New York Times*, 7 Sept 2012, http://www.nytimes.com/2012/09/08/education/studies-show-more-students-cheat-even-high-achievers.html.   
 </small>
 
 
